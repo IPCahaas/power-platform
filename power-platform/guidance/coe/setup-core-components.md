@@ -26,9 +26,7 @@ The flows and dataflows in this solution sync all your resources into tables and
 
 ### Import Creator Kit
 
-The CoE Starter Kit includes features that required the installation of the [Creator Kit](../creator-kit/overview.md) in the environment where you install the CoE Starter Kit.
-
-[Install the Creator Kit](../creator-kit/setup.md) before proceeding.
+[Install the Creator Kit](../creator-kit/setup.md) before proceeding. The [Creator Kit](../creator-kit/overview.md) includes features required by the CoE Starter Kit  in the same environment.
 
 ### Create connections
 
